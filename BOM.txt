@@ -54,7 +54,7 @@ GPredict
 http://gpredict.oz9aec.net/
 
 Some CAD software with STL read/export capability
-https://www.freecadweb.org/
+https://freecad.org
 https://www.solidworks.com/
 https://www.autodesk.com/products/inventor/overview
 
